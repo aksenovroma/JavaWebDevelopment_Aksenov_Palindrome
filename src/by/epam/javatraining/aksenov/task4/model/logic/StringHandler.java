@@ -4,7 +4,7 @@ import by.epam.javatraining.aksenov.task4.model.container.Stack;
 import org.apache.log4j.Logger;
 
 public class StringHandler {
-    static Logger log = Logger.getRootLogger();
+    private static Logger log = Logger.getRootLogger();
 
     public static boolean isPalindrome(String string) {
         if (string == null) {
