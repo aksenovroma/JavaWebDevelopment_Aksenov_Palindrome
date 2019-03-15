@@ -1,0 +1,11 @@
+[main] TRACE root  - 1 - pushed to stack
+[main] TRACE root  - 2 - pushed to stack
+[main] TRACE root  - 3 - pushed to stack
+[main] TRACE root  - b - pushed to stack
+[main] TRACE root  - a - pushed to stack
+[main] TRACE root  - a - compare to a
+[main] TRACE root  - b - compare to b
+[main] TRACE root  - 3 - compare to 3
+[main] TRACE root  - 2 - compare to 2
+[main] TRACE root  - 1 - compare to 1
+[main] INFO  root  - TRUE
